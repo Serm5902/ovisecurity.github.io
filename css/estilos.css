@@ -213,20 +213,9 @@ aside {
 	background-color: #fff;
 }
 
-aside h2 {
-	text-align: center;
-	margin-top: 15px;
-	margin-bottom: 10px;
-}
-
-aside p{
-	text-align: justify;
-	margin-left: 15px;
-	margin-right: 15px;
-	margin-bottom: 10px;
-}
-
 aside a {
+	width: 370px;
+	height: 370px;
 	margin-left: 15px;
 	margin-right: 15px;
 	margin-top: 10px;
