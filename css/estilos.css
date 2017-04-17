@@ -148,8 +148,21 @@ section {
 	width: 595px;
 	height: 400px;
 	float: left;
-	background-color: red;
+	background-color: #fff;
 }
+
+section > article h2 {
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+section > article > p {
+	text-align: justify;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+}
+
 
 aside {
 	margin-top: 5px;
@@ -158,7 +171,20 @@ aside {
 	height: 400px;
 	float: left;
 	margin-left: 5px;
-	background-color: yellow;
+	background-color: #fff;
+}
+
+aside h2 {
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+aside p{
+	text-align: justify;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 10px;
 }
 
 footer{
@@ -167,6 +193,8 @@ footer{
 	height: 60px;
 	float: left;
 	margin-top: 0px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 
 footer p {
