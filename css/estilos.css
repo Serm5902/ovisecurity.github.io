@@ -145,8 +145,9 @@ nav ul li a .quinto {
 section {
 	margin-top: 5px;
 	margin-bottom: 5px;
-	width: 590px;
-	height: auto;
+	width: 595px;
+	height: 400px;
+	float: left;
 	background-color: red;
 }
 
@@ -154,21 +155,27 @@ aside {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	width: 400px;
-	height: auto;
+	height: 400px;
+	float: left;
+	margin-left: 5px;
 	background-color: yellow;
 }
 
 footer{
-	position: absolute;
 	background-color: #005fbf;
 	width: 1000px;
 	height: 60px;
+	float: left;
+	margin-top: 0px;
 }
 
-footer h4 {
+footer p {
+	width: 300px;
+	height: auto;
 	padding-left: 15px;
+	padding-top: 10px;
 	font-family: verdana;
-	font-size: 15px;
+	font-size: 13px;
 	color: #ffffff;
 	text-align: left;
 	margin-top: 0px;
