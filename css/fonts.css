@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?9jgx0r');
-  src:  url('../fonts/icomoon.eot?9jgx0r#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?9jgx0r') format('truetype'),
-    url('../fonts/icomoon.woff?9jgx0r') format('woff'),
-    url('../fonts/icomoon.svg?9jgx0r#icomoon') format('svg');
+  font-family: 'serm5902';
+  src:  url('../fonts/serm5902.eot?7huf6d');
+  src:  url('../fonts/serm5902.eot?7huf6d#iefix') format('embedded-opentype'),
+    url('../fonts/serm5902.ttf?7huf6d') format('truetype'),
+    url('../fonts/serm5902.woff?7huf6d') format('woff'),
+    url('../fonts/serm5902.svg?7huf6d#serm5902') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'serm5902' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -25,18 +25,28 @@
 }
 
 .icon-open-book:before {
-  content: "\e900";
+  content: "\e903";
 }
 .icon-clapperboard:before {
-  content: "\e901";
+  content: "\e906";
 }
 .icon-home:before {
-  content: "\e902";
+  content: "\1f334";
 }
 .icon-pencil:before {
-  content: "\e903";
+  content: "\e905";
 }
 .icon-users:before {
   content: "\e904";
 }
+.icon-facebook:before {
+  content: "\e900";
+}
+.icon-twitter:before {
+  content: "\e901";
+}
+.icon-youtube:before {
+  content: "\e902";
+}
 
+../
