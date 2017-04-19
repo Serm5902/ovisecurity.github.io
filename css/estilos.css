@@ -223,7 +223,44 @@ section > article > p {
 	margin-bottom: 10px;
 }
 
+
+
+/* Paginas Videos */
+
+.video1{
+	margin-top: : 20px;
+	margin-bottom: 20px;
+}
+
+.videos{
+	height: 500px;
+}
+
+.videos h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.menumulti{
+	text-decoration: none;
+	margin-left: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.menumulti a{
+	text-decoration: none;
+	color: #000;
+}
+
+/* Fin Paginas Videos */
+
 /* Pagina Autores */
+.autores{
+	height: 900px;
+}
+
 .autor{
 	margin: 20px;
 	font-size: 20px;
@@ -265,9 +302,6 @@ section > article > p {
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
-
-
-
 /* Fin Pagina Autores */
 
 /* Aside */
