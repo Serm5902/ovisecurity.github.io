@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'serm5902';
-  src:  url('../fonts/serm5902.eot?7huf6d');
-  src:  url('../fonts/serm5902.eot?7huf6d#iefix') format('embedded-opentype'),
-    url('../fonts/serm5902.ttf?7huf6d') format('truetype'),
-    url('../fonts/serm5902.woff?7huf6d') format('woff'),
-    url('../fonts/serm5902.svg?7huf6d#serm5902') format('svg');
+  src:  url('../fonts/serm5902.eot?vt9goz');
+  src:  url('../fonts/serm5902.eot?vt9goz#iefix') format('embedded-opentype'),
+    url('../fonts/serm5902.ttf?vt9goz') format('truetype'),
+    url('../fonts/serm5902.woff?vt9goz') format('woff'),
+    url('../fonts/serm5902.svg?vt9goz#serm5902') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-arrow-bold-up:before {
+  content: "\e907";
+}
 .icon-open-book:before {
   content: "\e903";
 }
@@ -49,4 +52,3 @@
   content: "\e902";
 }
 
-../
