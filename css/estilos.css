@@ -387,6 +387,19 @@ section > article > p {
 
 /* Fin pagina Activity2  */
 
+/* pagina Activity 3 */
+.activity3 {
+	height: 950px;
+}
+
+.activity3 h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+/* Fin pagina Activity3  */
+
 /* Paginas Videos */
 
 .video1{
