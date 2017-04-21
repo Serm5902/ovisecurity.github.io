@@ -345,7 +345,7 @@ section > article > p {
 
 /* pagina Normas */
 .normas {
-	height: 500px;
+	height: 550px;
 }
 
 .normas h3{
@@ -360,6 +360,32 @@ section > article > p {
 	margin-top: 10px;
 }
 /* Fin pagina Normas  */
+
+/* pagina Activity 1 */
+.activity1 {
+	height: 920px;
+}
+
+.activity1 h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+/* Fin pagina Activity1  */
+
+/* pagina Activity 2 */
+.activity2 {
+	height: 950px;
+}
+
+.activity2 h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+/* Fin pagina Activity2  */
 
 /* Paginas Videos */
 
