@@ -223,7 +223,143 @@ section > article > p {
 	margin-bottom: 10px;
 }
 
+/* Pagina Inicio */
+.inicio{
+	height: 1050px;
+}
 
+.inicio h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.objetivos {
+	text-align: left;
+	margin-left: 60px;
+	margin-right: 15px;
+}
+/* Fin pagina inicio */
+
+/* pagina Plancone */
+.plancone {
+	height: 2100px;
+}
+
+.plancone h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.plancone h4{
+	text-align: left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+/* Fin pagina Plancone */
+
+/* pagina Planrta */
+.planrta {
+	height: 1110px;
+}
+
+.planrta h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.planrta h4{
+	text-align: left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.sugerencias{
+	text-align: left;
+	margin-left: 60px;
+	margin-right: 15px;
+}
+/* Fin pagina Planrta*/
+
+/* pagina GobiernoTI */
+.gobiernoti {
+	height: 1450px;
+}
+
+.gobiernoti h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.gobiernoti h4{
+	text-align: left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.guiones{
+	text-align: left;
+	margin-left: 60px;
+	margin-right: 15px;
+}
+/* Fin pagina GobiernoTI*/
+
+/* pagina Cobit */
+.cobit {
+	height: 850px;
+}
+
+.cobit h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.cobit h4{
+	text-align: left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+/* Fin pagina Cobit */
+
+/* pagina ITIL */
+.itil {
+	height: 800px;
+}
+
+.itil h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.itil h4{
+	text-align: left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+/* Fin pagina ITIL */
+
+/* pagina Normas */
+.normas {
+	height: 450px;
+}
+
+.normas h3{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.normas h4{
+	text-align: left;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+/* Fin pagina Normas  */
 
 /* Paginas Videos */
 
